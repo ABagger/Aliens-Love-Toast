@@ -7,7 +7,7 @@ class UI_Test extends Phaser.Scene
 
     preload()
     {
-        this.load.image('uiConcept', './assets/ui_concept.png');
+        this.load.image('uiConcept', './assets/ui_no_monitor.png');
     }
 
     create()
